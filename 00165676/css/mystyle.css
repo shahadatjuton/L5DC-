@@ -1,0 +1,219 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+/*
+=========================================
+Header Section
+=========================================
+*/
+.header-section{
+	margin-bottom: 20px;
+
+}
+
+
+/*
+=========================================
+Navbar Section
+=========================================
+*/
+
+.navitems{float: right;
+
+}
+
+#main-nav{
+	background-color: #212529;
+}
+
+.logo  {font-style: italic;
+
+}
+
+
+/*
+=========================================
+slider section
+=========================================
+*/
+
+marquee{
+	color: #218C40;
+}
+
+
+.carousel-inner img{
+    height: 500px;
+    width: auto;
+}
+
+/*
+=========================================
+Main Section
+=========================================
+*/
+
+
+.post{
+	margin: 10px;
+	text-align: justify;
+	size: 25px;
+	height: auto;
+	width: auto;
+	
+}
+
+.post img{
+	height: 200px;
+	width: 300px;
+}
+.card-img-top{
+	height:100%;
+	width: 100%;
+}
+
+
+/*
+=========================================
+Footer  Section
+=========================================
+*/
+
+.footer-section footer{
+	margin-top:20px;
+}
+
+
+
+/*
+=========================================
+Donation page
+=========================================
+*/
+
+.total{ border: 1px dotted red;
+		color: #51afaf;
+        font-size: 65px;
+        margin-top: : 100px;
+        margin-bottom: 200px;
+        text-align: center;
+                
+        }
+ .total p{
+ 	font-style: italic;
+ }       
+.donateform{
+	margin-top: 50px;
+	margin-bottom: 200px;
+	margin-left: 250px;
+
+}
+
+.donatorlist{border: 1px solid green;
+	margin-bottom: 20px;
+	margin-top: 20px;
+
+}
+.donatorlist p{
+	color: red;
+	font-size: 45px;
+}
+
+/*
+=========================================
+Post Area 
+=========================================
+*/
+.postarea h2{
+	margin-bottom: 100px;
+	margin-top: 20px;
+}
+.postform h4{text-align: center;
+
+}
+.postplace h2{
+	margin-left: 500px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.postarea .post{
+	text-align: center;
+}
+
+
+/*
+=========================================
+Visitors counter
+=========================================
+*/
+.visitorshow{
+	margin-top: 100px;
+	color: red;
+}
+.counter{
+	height: 200px;
+	border: 2px dotted green;
+	
+	text-align: center;
+	font-size: 70px;
+	color: #51AFAF;
+	padding-top: 30px;
+
+
+}
+/*
+=========================================
+Visitors counter
+=========================================
+*/
+
+
+
+/*
+===================================================
+Log IN 
+=============================================
+*/
+.bg{
+	background-image: url("../images/bg.jpg") ;
+	background-repeat:no-repeat;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.loginform{
+
+	margin-left: 300px;
+	margin-top: 100px;
+
+}
+.loginform h4{
+	text-align: center;
+	font-size: 35px;
+	color: #106571;
+}
+
+
+.loginbtn{
+margin-left: 250px;
+
+}
+/*
+===================================================
+Registration
+=============================================
+*/
+.rg-bg{
+	background-image: url("../images/bg.jpg") ;
+	background-repeat:no-repeat;
+	background-size: cover;
+	}
+
+.registrationform{
+	margin-left: 200px;
+
+}
